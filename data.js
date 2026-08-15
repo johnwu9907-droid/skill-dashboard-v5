@@ -1366,7 +1366,7 @@ window.DASHBOARD_DATA = {
               done: false,
             },
             {
-              text: "本機跑與機器跑",
+              text: "本機跑與機器跑真的",
               desc: "本機跑是為了你自己快，機器跑是為了讓別人能相信每次都跑過。",
               done: false,
             },
@@ -1673,7 +1673,7 @@ window.DASHBOARD_DATA = {
             {
               text: "設定檔啟動時才讀",
               desc: "改完要重開一次，不然新的設定不會生效。",
-              done: false,
+              done: true,
               bonus: true,
             },
           ],

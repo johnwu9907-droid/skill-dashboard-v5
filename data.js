@@ -1345,7 +1345,7 @@ window.DASHBOARD_DATA = {
           no: "01",
           title: "第三週課程實作複習",
           note: "用一句 prompt 讓 skill 串完整套上線流程，技能項目收錄在 W3 分頁。",
-        
+        },
         {
           no: "02",
           title: "認識 CI 與 GitHub Actions",

@@ -1673,7 +1673,7 @@ window.DASHBOARD_DATA = {
             {
               text: "設定檔啟動時才讀",
               desc: "改完要重開一次，不然新的設定不會生效。",
-              done: false,
+              done: true,
               bonus: true,
             },
           ],

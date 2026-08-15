@@ -1366,7 +1366,7 @@ window.DASHBOARD_DATA = {
               done: false,
             },
             {
-              text: "本機跑與機器跑真的",
+              text: "本機跑與機器跑",
               desc: "本機跑是為了你自己快，機器跑是為了讓別人能相信每次都跑過。",
               done: false,
             },
